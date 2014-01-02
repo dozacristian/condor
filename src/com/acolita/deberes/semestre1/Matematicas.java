@@ -12,7 +12,7 @@ public class Matematicas {
     private double nota;
 
     public Matematicas() {
-        this.nota= 20;
+        this.nota= 18;
     }
     
 
